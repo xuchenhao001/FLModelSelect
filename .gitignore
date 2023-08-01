@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# pycharm
+.idea/*
+
+# dataset
+/data
+
+#output
+result_*.txt
+*.pt
+output/
+*.log
+figures/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# C extensions
+*.so
